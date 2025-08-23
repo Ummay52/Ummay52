@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @Ummay52
-- 👀 I’m interested in Programming...
-- 🌱 I’m a web developer and have experties in HTML CSS JAVASCRIPT BOOTSTRAP PYTHON SQL DATABASES.
-- 💞️ I’m looking to collaborate on Development Projects...
+👋 Hi, I’m Ummay Hafsa
+
+👀 I’m passionate about Programming and Web Development
+
+🌱 I’m a Web Developer with expertise in HTML, CSS, JavaScript,React, Bootstrap, PHP, and SQL Databases
+
+💞️ I’m looking to collaborate on exciting Development Projects
+
+🚀 Always learning, building, and improving my skills
 
 
 <!---
