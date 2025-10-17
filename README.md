@@ -2,7 +2,7 @@
 
 👀 I’m passionate about Programming and Web Development
 
-🌱 I’m a Web Developer with expertise in HTML, CSS, JavaScript,React, Bootstrap, PHP, and SQL Databases
+🌱 I’m a Web Developer with expertise in HTML, CSS, JavaScript, Bootstrap, PHP, and SQL Databases
 
 💞️ I’m looking to collaborate on exciting Development Projects
 
